@@ -17,4 +17,4 @@ virtualenvwrapper-win==1.2.5
 wget==3.2
 whitenoise==3.3.1
 wkhtmltopdf==0.2
-wxPython==4.0.1
+
